@@ -147,6 +147,7 @@ we mention only version 1.7 1.12, 1.16, 1.18 and 1.19 because they are the most 
     * Status: Updated and remaned
     * new version 
 [RFToolsBase](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
+   * Version: 1.12.2, 1.16.5, 1.18.2, 1.19.4
 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
     * Status: Updated
     * Version: 1.12.2, 1.16.5, 1.18.2
@@ -155,7 +156,7 @@ we mention only version 1.7 1.12, 1.16, 1.18 and 1.19 because they are the most 
     * Status: Updated
     * Version: 1.12.2, 1.16.5, 1.18.2, 1.19.2
     * Remarks: The mod is updated to the latest version of Minecraft nothing big changed.
-- [MrCrayfish's Furniture Mod]
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
     * Status: Updated
     * Version: 1.12.2, 1.16.5, 1.18.2, 1.19.3
     * Remarks: the mod is currently under development and doesn't contain all furniture!
